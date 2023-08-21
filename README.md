@@ -18,7 +18,7 @@
 - 📄 Know about my experiences <a href="https://drive.google.com/file/d/1yf0GhQWYNlgXPlqenYa9YFnil1dLMEK3/view?usp=sharing"/> (Resume)
 
 
-- ⚡ Fun fact **I don't know what I am doing here**
+- ⚡ Fun fact **I don't know what I am doing on EARTH**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
