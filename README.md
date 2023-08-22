@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Priaynshu</h1>
+<h1 align="center">Hi 👋, I'm Priyanshu</h1>
 <h3 align="center">A passionate Full Stack Developer</h3>
 <img align="right" alt="Coding" width="300" src="https://gifdb.com/images/high/programming-stick-figure-going-crazy-on-fire-j6ii4pju9xdtnsbr.webp">
 
@@ -15,8 +15,8 @@
 
 - 📫 How to reach me **priyanshu077g@gmail.com**
 
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1yf0GhQWYNlgXPlqenYa9YFnil1dLMEK3/view?usp=sharing"/> (Resume)
-
+- 📄 Know about my experiences  (Resume)
+  
 
 - ⚡ Fun fact **Are we in Marix??**
 
