@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **priyanshu077g@gmail.com**
 
-- 📄 Know about my experiences  (Resume)(https://drive.google.com/file/d/1riUMSB-EvC6HRocp-FZamYn1ScKxjBcy/view?usp=sharing)
+- 📄 Know about my experiences  [Resume](https://drive.google.com/file/d/1riUMSB-EvC6HRocp-FZamYn1ScKxjBcy/view?usp=sharing)
 
   
 
