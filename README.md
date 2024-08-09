@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Priyanshu</h1>
 <h3 align="center">A passionate Full Stack Developer</h3>
-<img align="right" alt="Coding" width="300" src="https://gifdb.com/images/high/programming-stick-figure-going-crazy-on-fire-j6ii4pju9xdtnsbr.webp">
+<img align="right" alt="Coding" width="300" src="[https://gifdb.com/images/high/programming-stick-figure-going-crazy-on-fire-j6ii4pju9xdtnsbr.webp](https://media1.tenor.com/m/IVCnKbtTeRQAAAAC/programming-computer.gif)">
 
 
 
